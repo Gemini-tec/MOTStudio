@@ -1,8 +1,8 @@
-# 📸 MOT Studios
+ 📸 MOT Studios
 
 MOT Studios is a modern photography website designed to showcase photography services, portfolios, bookings, and client interactions.
 
-## ✨ Features
+ ✨ Features
 
 - 🏠 Responsive homepage
 - 📷 Photography portfolio
@@ -14,7 +14,7 @@ MOT Studios is a modern photography website designed to showcase photography ser
 - 💳 Planned M-Pesa payment integration
 - 📦 Photo delivery tracking
 
-## 🧰 Technologies
+ 🧰 Technologies
 
 - HTML5
 - CSS3
@@ -22,17 +22,17 @@ MOT Studios is a modern photography website designed to showcase photography ser
 - JavaScript
 - Git & GitHub
 
-## 🚀 Project Goal
+  🚀 Project Goal
 
 To develop a complete digital platform for MOT Studios that combines **photography, online booking, payments, and client management**.
 
-## 📍 Location
+ 📍 Location
 
-**Chavakali, Kenya**
+  Chavakali, Kenya
 
-## 👨‍💻 Developer
+ 👨‍💻 Developer
 
-**John Kamadi**
+   ~John Kamadi~
 
 Developed as a practical web development project and portfolio.
 
